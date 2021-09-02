@@ -1,0 +1,9 @@
+name: ItemRandomiser
+version: 1.0
+author: iCraze
+main: com.icraze.itemrandomiser.ItemRandomiser
+api-version: 1.16
+commands:
+  clag:
+    description: Reduces lag by removing ground items
+    usage: /<clag>
