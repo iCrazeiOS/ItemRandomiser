@@ -8,10 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="39ac4070-0c47-4722-a632-125954cc560d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ItemRandomiser/META-INF/ItemRandomiser.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icraze/itemrandomiser/ItemRandomiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icraze/itemrandomiser/ItemRandomiser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/icraze/itemrandomiser/commands/ItemRandomiserCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icraze/itemrandomiser/commands/ItemRandomiserCommands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/icraze/itemrandomiser/events/ItemRandomiserEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/icraze/itemrandomiser/events/ItemRandomiserEvents.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="itemrandomiser" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Superpowers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
