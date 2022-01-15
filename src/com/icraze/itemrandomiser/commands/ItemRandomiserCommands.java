@@ -27,6 +27,7 @@ public class ItemRandomiserCommands implements CommandExecutor {
 
             // if no Items
             if (amount == 0) {
+                // show chat message to the player
                 player.sendMessage(ChatColor.GOLD + "(!) No ground items were found!");
                 return true;
             }
